@@ -19,8 +19,6 @@
     '^org\\.gnu\\.emacs$',
     // JetBrains tools
     '^com\\.jetbrains',
-    // Microsoft VSCode
-    '^com\\.microsoft\\.VSCode$',
     // Sublime Text
     '^com\\.sublimetext\\.3$',
     // Kitty
